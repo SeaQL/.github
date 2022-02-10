@@ -8,4 +8,4 @@ This project and everyone participating in it is governed by the [SeaQL Code of 
 
 ## I just have a question!
 
-If you got a question to ask, please do not open an issue for it. It's quicker to ask us on [SeaQL's Discord Server](https://discord.com/invite/uCPdDXzbdv) or open a [Discussion on GitHub repository](https://docs.github.com/en/discussions/quickstart#creating-a-new-discussion)
+If you got a question to ask, please do not open an issue for it. It's quicker to ask us on [SeaQL Discord Server](https://discord.com/invite/uCPdDXzbdv) or open a [Discussion on GitHub repository](https://docs.github.com/en/discussions/quickstart#creating-a-new-discussion)
