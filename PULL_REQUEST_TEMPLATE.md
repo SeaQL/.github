@@ -24,6 +24,10 @@ Or, mention our core members by typing `@GitHub_Handle` on any issue / PR
 
 <!-- what are the new features? -->
 
+## Fixes
+
+<!-- if it fixes a bug, please provide a brief analysis of the original bug -->
+
 ## Breaking Changes
 
 <!-- any change in behaviour or method signiture? is it backward compatable? -->
