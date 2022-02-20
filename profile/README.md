@@ -8,8 +8,6 @@
     <strong>Building data intensive applications in Rust</strong>
   </p>
 
-  <sub>Built with 🔥 by 🌊🦀🐚</sub>
-
 </div>
 
 ## Our Mission
