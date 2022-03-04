@@ -32,7 +32,7 @@ Add some test cases! It help reviewers to understand the behaviour and prevent i
 
 ## Breaking Changes
 
-<!-- any change in behaviour or method signiture? is it backward compatable? -->
+<!-- any change in behaviour or method signature? is it backward compatable? -->
 
 ## Changes
 
