@@ -6,7 +6,7 @@ SeaQL is a community driven project. We welcome you to participate, contribute a
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [SeaQL Code of Conduct](https://github.com/SeaQL/.github/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+This project is governed by the [SeaQL Code of Conduct](https://github.com/SeaQL/.github/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
 ## I have a question
 
