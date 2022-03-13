@@ -22,7 +22,7 @@ We are always looking for long-term contributors. If you want to commit longer-t
 
 ## I want to support
 
-Awesome! The best way to support us is to recommend it to your classmates/colleagues/friends, write blog posts and tutorials on SeaQL projects and help out other users in the community. It is difficult enough to keep an open source afloat, so every little help matters, especially if it can directly/indirectly lightening the core team's mental load.
+Awesome! The best way to support us is to recommend it to your classmates/colleagues/friends, write blog posts and tutorials on SeaQL projects and help out other users in the community. It is difficult enough to keep an open source afloat, so every little help matters, especially if it can directly/indirectly lighten the core team's mental load.
 
 ## I want to sponsor
 
