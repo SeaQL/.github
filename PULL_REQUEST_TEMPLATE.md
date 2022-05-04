@@ -22,22 +22,18 @@ Add some test cases! It help reviewers to understand the behaviour and prevent i
 - Dependents:
   - <!-- PR link -->
 
-### TODO
-
-- [ ] <!-- some subtask for this PR -->
-
 ## Adds
 
-<!-- what are the new features? -->
+- [ ] <!-- what are the new features? -->
 
 ## Fixes
 
-<!-- if it fixes a bug, please provide a brief analysis of the original bug -->
+- [ ] <!-- if it fixes a bug, please provide a brief analysis of the original bug -->
 
 ## Breaking Changes
 
-<!-- any change in behaviour or method signature? is it backward compatible? -->
+- [ ] <!-- any change in behaviour or method signature? is it backward compatible? -->
 
 ## Changes
 
-<!-- any other non-breaking changes to the codebase -->
+- [ ] <!-- any other non-breaking changes to the codebase -->
