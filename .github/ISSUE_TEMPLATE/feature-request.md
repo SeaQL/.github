@@ -18,13 +18,13 @@ Please ask us on
 
 -->
 
-## Summary
-
-<!-- summarise the suggested feature -->
-
 ## Motivation
 
 <!-- what is the use case? what is the expected outcome? -->
+
+## Proposed Solutions
+
+<!-- what are the proposed solutions? how it solve the problem or achieve the goal? -->
 
 ## Additional Information
 
