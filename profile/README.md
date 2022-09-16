@@ -23,6 +23,6 @@ Community driven. Embrace the async Rust ecosystem. Welcome developers from othe
 
 Your participation is what makes us unique; your adoption is what drives us forward. Thank you all in the Rust community for making SeaQL what it is today. You are also invited to shape it's future!
 
-![SeaQL Star History](https://api.star-history.com/svg?repos=seaql/sea-orm,seaql/sea-query,seaql/sea-schema,seaql/starfish-ql&type=Timeline)
+![SeaQL Star History](https://api.star-history.com/svg?repos=seaql/sea-orm,seaql/sea-query,seaql/sea-schema,seaql/starfish-ql,seaql/seaography&type=Timeline)
 
 Please star our repos! Every ⭐ counts!
