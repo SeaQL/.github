@@ -22,7 +22,7 @@ Add some test cases! It help reviewers to understand the behaviour and prevent i
 - Dependents:
   - <!-- PR link -->
 
-## Enhancements
+## New Features
 
 - [ ] <!-- what are the new features? -->
 
