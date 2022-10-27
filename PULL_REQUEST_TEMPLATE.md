@@ -22,11 +22,11 @@ Add some test cases! It help reviewers to understand the behaviour and prevent i
 - Dependents:
   - <!-- PR link -->
 
-## Adds
+## Enhancements
 
 - [ ] <!-- what are the new features? -->
 
-## Fixes
+## Bug Fixes
 
 - [ ] <!-- if it fixes a bug, please provide a brief analysis of the original bug -->
 
