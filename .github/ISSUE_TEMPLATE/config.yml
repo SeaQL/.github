@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ask a question or look for help
+    url: https://github.com/SeaQL/{repo-name}/discussions/new?category=q-a
+    about: Please try to provide sufficient context, snippets to reproduce and error messages (if any).
