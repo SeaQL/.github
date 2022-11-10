@@ -1,6 +1,6 @@
 ---
 name: Q & A
-about: Ask a question or help for solving a problem
+about: Ask a question or look for help
 title: ''
 labels: ''
 assignees: ''
