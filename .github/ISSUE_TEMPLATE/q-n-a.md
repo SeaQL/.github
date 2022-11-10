@@ -1,5 +1,5 @@
 ---
-name: Q&A
+name: Q & A
 about: Ask a question or help for solving a problem
 title: ''
 labels: ''
