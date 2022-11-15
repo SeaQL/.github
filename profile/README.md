@@ -21,7 +21,7 @@ Community driven. Embrace the async Rust ecosystem. Welcome developers from othe
 
 ## Our commitment
 
-We are committed to nurturing the next generation open source contributors. We provide internship experience tailored for university students and Seaography and StarfishQL are both excellent projects developed by interns under SeaQL.
+We are committed to nurturing the next generation of open source developers. We provide internship experience tailored for university students - Seaography and StarfishQL are both excellent projects developed by interns under SeaQL.
 
 ## Community
 
