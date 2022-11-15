@@ -19,9 +19,13 @@ In the long term, we want to support all open source SQL, NewSQL and NoSQL datab
 ## Our Values
 Community driven. Embrace the async Rust ecosystem. Welcome developers from other languages.
 
+## Our commitment
+
+We are committed to nurturing the next generation open source contributors. We provide internship experience tailored for university students and Seaography and StarfishQL are both excellent projects developed by interns under SeaQL.
+
 ## Community
 
-Your participation is what makes us unique; your adoption is what drives us forward. Thank you all in the Rust community for making SeaQL what it is today. You are also invited to shape it's future!
+Your participation is what makes us unique; your adoption is what drives us forward.
 
 ![SeaQL Star History](https://api.star-history.com/svg?repos=seaql/sea-orm,seaql/sea-query,seaql/sea-schema,seaql/starfish-ql,seaql/seaography&type=Timeline)
 
