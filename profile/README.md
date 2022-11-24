@@ -28,3 +28,17 @@ We are committed to nurturing the next generation of open source developers. We 
 Your participation is what makes us unique; your adoption is what drives us forward. Please star our repos! Every ⭐ counts!
 
 ![SeaQL Star History](https://api.star-history.com/svg?repos=seaql/sea-orm,seaql/sea-query,seaql/sea-schema,seaql/starfish-ql,seaql/seaography&type=Timeline)
+
+## Sponsors
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://www.digitalocean.com/"><img src="https://www.sea-ql.org/img/sponsors/DigitalOcean.svg" width="180"/></a></td>
+      <td><a href="https://summerofcode.withgoogle.com/"><img src="https://www.sea-ql.org/img/sponsors/GSoC.svg" width="180"/></a></td>
+      <td><a href="https://www.jetbrains.com/"><img src="https://www.sea-ql.org/img/sponsors/JetBrains.svg" width="180"/></a></td>
+    </tr>
+  </tbody>
+</table>
+
+Our [GitHub Sponsor](https://github.com/sponsors/SeaQL) profile is up! If you feel generous, a small donation will be greatly appreciated.
