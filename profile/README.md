@@ -34,9 +34,9 @@ Your participation is what makes us unique; your adoption is what drives us forw
 <table>
   <tbody>
     <tr>
-      <td><a href="https://www.digitalocean.com/"><img src="https://www.sea-ql.org/img/sponsors/DigitalOcean.svg" width="180"/></a></td>
-      <td><a href="https://summerofcode.withgoogle.com/"><img src="https://www.sea-ql.org/img/sponsors/GSoC.svg" width="180"/></a></td>
-      <td><a href="https://www.jetbrains.com/"><img src="https://www.sea-ql.org/img/sponsors/JetBrains.svg" width="180"/></a></td>
+      <td><a href="https://www.digitalocean.com/"><img src="https://www.sea-ql.org/img/sponsors/DigitalOcean.svg" width="160"/></a></td>
+      <td><a href="https://summerofcode.withgoogle.com/"><img src="https://www.sea-ql.org/img/sponsors/GSoC.svg" width="160"/></a></td>
+      <td><a href="https://www.jetbrains.com/"><img src="https://www.sea-ql.org/img/sponsors/JetBrains.svg" width="160"/></a></td>
     </tr>
   </tbody>
 </table>
