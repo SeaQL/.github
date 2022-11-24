@@ -29,7 +29,7 @@ Your participation is what makes us unique; your adoption is what drives us forw
 
 ![SeaQL Star History](https://api.star-history.com/svg?repos=seaql/sea-orm,seaql/sea-query,seaql/sea-schema,seaql/starfish-ql,seaql/seaography&type=Timeline)
 
-## Sponsors
+## Supported By
 
 <table>
   <tbody>
