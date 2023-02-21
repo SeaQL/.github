@@ -27,7 +27,7 @@ We are committed to nurturing the next generation of open source developers. We 
 
 Your participation is what makes us unique; your adoption is what drives us forward. Please star our repos! Every ⭐ counts!
 
-![SeaQL Star History](https://api.star-history.com/svg?repos=seaql/sea-orm,seaql/sea-query,seaql/sea-schema,seaql/starfish-ql,seaql/seaography,seaql/otter-sql&type=Timeline)
+[![SeaQL Star History](https://api.star-history.com/svg?repos=seaql/sea-orm,seaql/sea-query,seaql/sea-schema,seaql/starfish-ql,seaql/seaography,seaql/otter-sql&type=Timeline)](https://seladb.github.io/StarTrack-js/#/preload?r=seaql,sea-orm&r=seaql,sea-query&r=seaql,sea-schema&r=seaql,starfish-ql&r=seaql,seaography&r=seaql,otter-sql)
 
 ## SeaQL is Supported By
 
