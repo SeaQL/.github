@@ -40,6 +40,6 @@ Your participation is what makes us unique; your adoption is what drives us forw
   </tbody>
 </table>
 
-A big thank to DigitalOcean who sponsored our server hosting, and JetBrains who sponsored our IDE and every sponsor on [GitHub Sponsors](https://github.com/sponsors/SeaQL).
+A big thank to DigitalOcean who sponsored our server hosting, and JetBrains who sponsored our IDE, and every sponsor on [GitHub Sponsors](https://github.com/sponsors/SeaQL).
 
 SeaQL.org is an independent open-source organization run by passionate developers. If you enjoy using our libraries, a small donation will be greatly appreciated, and goes a long way towards sustaining the organization.
