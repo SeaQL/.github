@@ -25,7 +25,7 @@ We are committed to nurturing the next generation of open source developers. We 
 
 ## Our Community
 
-Your participation is what makes us unique; your adoption is what drives us forward. Please star our repos! Every ⭐ counts!
+Your participation is what makes us unique; your adoption is what drives us forward. Thank you all in the Rust community for making SeaQL what it is today. You are also invited to shape it's future! Please star our repos, every ⭐ counts!
 
 ![SeaQL Star History](https://api.star-history.com/svg?repos=seaql/sea-orm,seaql/sea-query,seaql/sea-schema,seaql/starfish-ql,seaql/seaography&type=Timeline)
 
