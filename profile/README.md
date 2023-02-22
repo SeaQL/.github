@@ -29,7 +29,7 @@ Your participation is what makes us unique; your adoption is what drives us forw
 
 [![SeaQL Star History](https://api.star-history.com/svg?repos=seaql/sea-orm,seaql/sea-query,seaql/sea-schema,seaql/starfish-ql,seaql/seaography,seaql/otter-sql&type=Timeline)](https://seladb.github.io/StarTrack-js/#/preload?r=seaql,sea-orm&r=seaql,sea-query&r=seaql,sea-schema&r=seaql,starfish-ql&r=seaql,seaography&r=seaql,otter-sql)
 
-## SeaQL is Supported By
+## Sponsors
 
 <table>
   <tbody>
@@ -40,4 +40,6 @@ Your participation is what makes us unique; your adoption is what drives us forw
   </tbody>
 </table>
 
-Our [GitHub Sponsor](https://github.com/sponsors/SeaQL) profile is up! If you feel generous, a small donation will be greatly appreciated.
+A big thank to DigitalOcean who sponsored our server hosting and JetBrains who sponsored our IDE.
+
+SeaQL.org is an independent open-source organization run by passionate developers. If you enjoy using our libraries, a small donation will be greatly appreciated, and goes a long way towards sustaining the project.
