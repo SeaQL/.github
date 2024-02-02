@@ -48,8 +48,8 @@ And JetBrains, for sponsoring our IDE.
 <table>
   <tbody>
     <tr>
-      <td><a href="https://www.digitalocean.com/"><img src="https://www.sea-ql.org/img/sponsors/DigitalOcean.svg" width="160"/></a></td>
-      <td><a href="https://www.jetbrains.com/"><img src="https://www.sea-ql.org/img/sponsors/JetBrains.svg" width="160"/></a></td>
+      <td><a href="https://www.digitalocean.com/"><img src="https://www.sea-ql.org/img/sponsors/DigitalOcean.svg" width="148"/></a></td>
+      <td><a href="https://www.jetbrains.com/"><img src="https://www.sea-ql.org/img/sponsors/JetBrains.svg" width="148"/></a></td>
     </tr>
   </tbody>
 </table>
