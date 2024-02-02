@@ -42,7 +42,7 @@ A big thank to DigitalOcean who sponsored our server hosting, and JetBrains who 
         <a href="https://www.digitalocean.com/">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://www.sea-ql.org/static/sponsors/Osmos-dark.svg">
-            <img src="https://www.sea-ql.org/static/sponsors/Osmos.svg" width="160">
+            <img src="https://www.sea-ql.org/static/sponsors/Osmos.svg" width="180">
           </picture>
         </a>
       </td>
