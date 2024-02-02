@@ -42,7 +42,7 @@ A big thank to DigitalOcean who sponsored our server hosting, and JetBrains who 
   </picture>
 </a>
 
-### Sponsors
+### Silver Sponsors
 
 <table>
   <tbody>
