@@ -31,6 +31,25 @@ Your participation is what makes us unique; your adoption is what drives us forw
 
 ## Our Sponsors
 
+A big thank to DigitalOcean who sponsored our server hosting, and JetBrains who sponsored our IDE, and every sponsor on [GitHub Sponsors](https://github.com/sponsors/SeaQL).
+
+### Gold Sponsors
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://www.digitalocean.com/">
+          <img src="https://www.sea-ql.org/static/sponsors/Osmos.svg#gh-light-mode-only" width="160"/>
+          <img src="https://www.sea-ql.org/static/sponsors/Osmos-dark.svg#gh-dark-mode-only" width="160"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Sponsors
+
 <table>
   <tbody>
     <tr>
@@ -39,7 +58,5 @@ Your participation is what makes us unique; your adoption is what drives us forw
     </tr>
   </tbody>
 </table>
-
-A big thank to DigitalOcean who sponsored our server hosting, and JetBrains who sponsored our IDE, and every sponsor on [GitHub Sponsors](https://github.com/sponsors/SeaQL).
 
 SeaQL.org is an independent open-source organization run by passionate developers. If you enjoy using our libraries, a small donation will be greatly appreciated, and goes a long way towards sustaining the organization.
