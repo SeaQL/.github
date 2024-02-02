@@ -5,7 +5,7 @@
   </a>
 
   <p>
-    <strong>Building data intensive applications in Rust</strong>
+    <strong>Building developer tools for Rust</strong>
   </p>
 
 </div>
