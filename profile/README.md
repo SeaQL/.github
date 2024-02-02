@@ -27,11 +27,12 @@ We are committed to nurturing the next generation of open source developers. We 
 
 Your participation is what makes us unique; your adoption is what drives us forward. Thank you all in the Rust community for making SeaQL what it is today. You are also invited to shape it's future! Please star our repos, every ⭐ counts!
 
-![SeaQL Star History](https://api.star-history.com/svg?repos=seaql/sea-orm,seaql/sea-query,seaql/sea-schema,seaql/starfish-ql,seaql/seaography&type=Timeline)
-
 ## Our Sponsors
 
-A big thank to DigitalOcean who sponsored our server hosting, and JetBrains who sponsored our IDE, and every sponsor on [GitHub Sponsors](https://github.com/sponsors/SeaQL).
+We’re immensely grateful to our sponsors.
+Osmos, for their gold-tier sponsorship and trust in the tools we develop.
+Digital Ocean, for sponsoring our servers.
+And JetBrains, for sponsoring our IDE.
 
 ### Gold Sponsors
 
@@ -53,4 +54,5 @@ A big thank to DigitalOcean who sponsored our server hosting, and JetBrains who 
   </tbody>
 </table>
 
-SeaQL.org is an independent open-source organization run by passionate developers. If you enjoy using our libraries, a small donation will be greatly appreciated, and goes a long way towards sustaining the organization.
+SeaQL.org is an independent open-source organization run by passionate developers.
+If you enjoy using our libraries, a small donation will be greatly appreciated, and goes a long way towards sustaining the organization.
