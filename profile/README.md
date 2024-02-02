@@ -40,8 +40,10 @@ A big thank to DigitalOcean who sponsored our server hosting, and JetBrains who 
     <tr>
       <td>
         <a href="https://www.digitalocean.com/">
-          <img src="https://www.sea-ql.org/static/sponsors/Osmos.svg#gh-light-mode-only" width="160"/>
-          <img src="https://www.sea-ql.org/static/sponsors/Osmos-dark.svg#gh-dark-mode-only" width="160"/>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://www.sea-ql.org/static/sponsors/Osmos-dark.svg">
+            <img src="https://www.sea-ql.org/static/sponsors/Osmos.svg" width="160">
+          </picture>
         </a>
       </td>
     </tr>
