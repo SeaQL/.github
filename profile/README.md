@@ -30,18 +30,8 @@ Your participation is what makes us unique; your adoption is what drives us forw
 ## Our Sponsors
 
 We’re immensely grateful to our sponsors.
-Osmos, for their gold-tier sponsorship and trust in the tools we develop.
 Digital Ocean, for sponsoring our servers.
 And JetBrains, for sponsoring our IDE.
-
-### Gold Sponsors
-
-<a href="https://osmos.io/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.sea-ql.org/static/sponsors/Osmos-dark.svg">
-    <img src="https://www.sea-ql.org/static/sponsors/Osmos.svg" width="238">
-  </picture>
-</a>
 
 ### Silver Sponsors
 
