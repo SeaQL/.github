@@ -29,11 +29,25 @@ Your participation is what makes us unique; your adoption is what drives us forw
 
 ## Our Sponsors
 
+### Gold Sponsors
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://qdx.co/">
+          <img src="https://www.sea-ql.org/static/sponsors/QDX.jpg" width="160"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Silver Sponsors
+
 We’re immensely grateful to our sponsors.
 Digital Ocean, for sponsoring our servers.
 And JetBrains, for sponsoring our IDE.
-
-### Silver Sponsors
 
 <table>
   <tbody>
