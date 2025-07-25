@@ -5,23 +5,24 @@
   </a>
 
   <p>
-    <strong>Building developer tools for Rust</strong>
+    <strong>Building data intensive applications in Rust</strong>
   </p>
 
 </div>
 
 ## Our Mission
-We help developers in building data intensive applications in Rust, whether they are web services (GraphQL, gRPC, REST), command line tools or apps.
+We help developers in building data intensive applications in Rust, whether they are web services (GraphQL, gRPC, REST), data pipelines or apps.
 
 ## Our Vision
-In the long term, we want to support all open source SQL, NoSQL, and NewSQL databases, providing a uniform developer experience to transaction processing, stream processing and other data engineering work.
+In the long term, we want to support all open source SQL and NewSQL databases, providing a uniform developer experience to transaction processing, stream processing and other data engineering work.
 
 ## Our Values
 Community driven. Embrace the async Rust ecosystem. Welcome developers from other languages.
 
 ## Our Commitment
 
-We are committed to nurturing the next generation of open source developers. We provide internship experience tailored for university students - Seaography and StarfishQL are both excellent projects developed by interns under SeaQL.
+We are committed to nurturing the next generation of open-source developers.
+We offer unique internship experiences tailored for university students - in fact, Seaography is a project developed by interns under SeaQL.
 
 ## Our Community
 
@@ -43,11 +44,12 @@ Your participation is what makes us unique; your adoption is what drives us forw
   </tbody>
 </table>
 
+[QDX](https://qdx.co/) pioneers quantum dynamics-powered drug discovery, leveraging AI and supercomputing to accelerate molecular modeling.
+We're immensely grateful to QDX for sponsoring the development of SeaORM, the SQL toolkit that powers their data engineering workflows.
+
 ### Silver Sponsors
 
-We’re immensely grateful to our sponsors.
-Digital Ocean, for sponsoring our servers.
-And JetBrains, for sponsoring our IDE.
+We’re grateful to our silver sponsors: Digital Ocean, for sponsoring our servers. And JetBrains, for sponsoring our IDE.
 
 <table>
   <tbody>
