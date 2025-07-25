@@ -36,7 +36,7 @@ Your participation is what makes us unique; your adoption is what drives us forw
     <tr>
       <td>
         <a href="https://qdx.co/">
-          <img src="https://www.sea-ql.org/static/sponsors/QDX.jpg" width="160"/>
+          <img src="https://www.sea-ql.org/static/sponsors/QDX.svg" width="160"/>
         </a>
       </td>
     </tr>
