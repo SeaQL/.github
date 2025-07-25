@@ -60,5 +60,7 @@ We’re grateful to our silver sponsors: Digital Ocean, for sponsoring our serve
   </tbody>
 </table>
 
+### Support Us!
+
 SeaQL.org is an independent open-source organization run by passionate developers.
 If you enjoy using our libraries, a small donation will be greatly appreciated, and goes a long way towards sustaining the organization.
