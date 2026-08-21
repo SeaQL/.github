@@ -11,29 +11,21 @@ Add some test cases! It help reviewers to understand the behaviour and prevent i
 
 ## PR Info
 
-<!-- mention the related issue -->
+<!-- mention the related issue (Remove this section if not applicable) -->
 - Closes <!-- issue link -->
 
-<!-- is this PR depends on other PR? (if applicable) -->
-- Dependencies:
+<!-- is this PR depends on other PR? (Remove this section if not applicable) -->
+### Dependencies
   - <!-- PR link -->
 
-<!-- any PR depends on this PR? (if applicable) -->
-- Dependents:
+<!-- any PR depends on this PR? (Remove this section if not applicable) -->
+### Dependents
   - <!-- PR link -->
 
-## New Features
+## Checklist
 
-- [ ] <!-- what are the new features? -->
+- [ ] I have read the [AI Policy](https://github.com/SeaQL/.github/blob/master/AI_POLICY.md) and confirm that this contribution complies with it.
 
-## Bug Fixes
+## Release Notes
 
-- [ ] <!-- if it fixes a bug, please provide a brief analysis of the original bug -->
-
-## Breaking Changes
-
-- [ ] <!-- any change in behaviour or method signature? is it backward compatible? -->
-
-## Changes
-
-- [ ] <!-- any other non-breaking changes to the codebase -->
+- <!-- N/A or Add/Fix/Improve ... -->
