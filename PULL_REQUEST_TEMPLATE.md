@@ -37,3 +37,7 @@ Add some test cases! It help reviewers to understand the behaviour and prevent i
 ## Changes
 
 - [ ] <!-- any other non-breaking changes to the codebase -->
+
+## Checklist
+
+- [ ] I have read the [AI Policy](https://github.com/SeaQL/.github/blob/master/AI_POLICY.md) and confirm that this contribution complies with it.
