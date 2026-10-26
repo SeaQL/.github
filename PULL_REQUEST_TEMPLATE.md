@@ -25,6 +25,7 @@ Add some test cases! It help reviewers to understand the behaviour and prevent i
 ## Checklist
 
 - [ ] I have read the [AI Policy](https://github.com/SeaQL/.github/blob/master/AI_POLICY.md) and confirm that this contribution complies with it.
+- [ ] I used an LLM to generate this PR description or my replies, and I agree that maintainers may use LLMs to respond and may close this PR without providing a reason. (Deleting this checklist item is also considered agreement to these terms.)
 
 ## Release Notes
 
